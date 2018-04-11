@@ -7,7 +7,7 @@ Javascript solution for [Day 7 - Advent of Code](http://adventofcode.com/2015/da
 
 Running Solution
 ----------------
-#### Requirements
+### Requirements
 *  [Node.js](http://nodejs.org): for all the magic
 
 Then simply run the following command:
