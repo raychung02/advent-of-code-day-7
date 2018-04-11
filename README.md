@@ -5,6 +5,16 @@ Javascript solution for [Day 7 - Advent of Code](http://adventofcode.com/2015/da
 * input.txt: main puzzle input file given by Advent. The solutions should be 956 and 40149 for part one and two respectively.
 * input2.txt: simple input file copied from example in instructions.
 
+Running Solution
+----------------
+#### Requirements
+*  [Node.js](http://nodejs.org): for all the magic
+
+Then simply run the following command:
+```
+    $ node assembly.js
+ ```
+
 Instructions
 ============
 This year, Santa brought little Bobby Tables a set of wires and bitwise logic gates! Unfortunately, little Bobby is a little under the recommended age range, and he needs help assembling the circuit.
